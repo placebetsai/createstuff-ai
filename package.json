@@ -1,0 +1,19 @@
+{
+  "name": "createstuff-ai",
+  "version": "1.0.0",
+  "description": "Free AI-Powered App Builder with MCP Hive",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx wrangler pages deploy . --project-name=createstuff-ai"
+  },
+  "keywords": [
+    "ai",
+    "app-builder",
+    "free",
+    "mcp-hive",
+    "replit-alternative"
+  ],
+  "author": "Israel Joffe",
+  "license": "MIT"
+}
